@@ -5,3 +5,4 @@ Links
 
 Explaination of Important Algorithmic Problems https://superstudy.guide/   
 System Design Related Issues and Discussion (Bytebytego) https://blog.bytebytego.com/archive
+Design Patterns and Software Architecture Roadmap https://github.com/stemmlerjs/software-design-and-architecture-roadmap
